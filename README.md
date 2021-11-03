@@ -5,8 +5,6 @@ Projet POO : Pet Rescue Saga
 
 Développé par HU Wei et KE Zong-You
 étudiants M1 Linguistique Informatique
-binôme n°32
-
 ***********************************************
 
 Contenu du dossier :
